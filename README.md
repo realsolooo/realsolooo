@@ -2,22 +2,6 @@
   <img src="https://github.com/realsolooo/realsolooo/blob/main/soloo.png" width="80%">
 </p>
 
-<h3 align="center">a cool coder.</h3>  
-
-<p align="center">i like making ubg sites and modding in games.</p>  
-
-<p align="center">  
-  <a href="https://www.gorillatagvr.com">gorilla tag</a> |  
-  <a href="https://www.roblox.com/home">roblox</a> |  
-  <a href="https://gunraiders.com">gun raiders</a> |  
-  <a href="https://rec.net">rec room</a> |  
-  <a href="https://1v1.lol">1v1.lol</a>  
-</p>  
-
-<p align="center"><em>i code more than i play it..</em></p>  
-
----
-
 <h3 align="center">my top projects:</h3>
 <p align="center"> 
   <a href="https://dsc.gg/menus">solo's stupid mods</a> | <a href="https://github.com/realsolooo/solospaidv1">solo's stupid menu</a> </a>
